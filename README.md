@@ -1,3 +1,4 @@
+<img src="https://github.com/pradeep-kalyan/pradeep-kalyan/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png" alt="hello"></img>
 <h1 align="center">Hi 👋, I'm Pradeep Kalyan</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
@@ -7,10 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **pradeepkalyan1275@gmail.com**
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pradeep-kalyan/](https://www.linkedin.com/in/pradeep-kalyan/)
+
+- 📫 How to reach me **https://www.linkedin.com/in/pradeep-kalyan/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pradeep-kalyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pradeep-kalyan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
